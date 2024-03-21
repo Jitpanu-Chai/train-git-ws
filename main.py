@@ -1,1 +1,8 @@
-print("1234")
+print('hellow world')
+
+
+def addition(x,y):
+    return x+y
+
+
+print(addition(2,3))

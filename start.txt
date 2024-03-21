@@ -1,2 +1,2 @@
-วันนี้ (20 มี.ค. 67) หลังจาก พล.ต.อ.ต่อศักดิ์ สุขวิมล ผู้บัญชาการตำรวจแห่งชาติ(ผบ.ตร.) และ พล.ต.อ.สุรเชษฐ์ หักพาล รอง ผบ.ตร ได้เดินทางเข้าพบ นายเศรษฐา ทวีสิน นายกรัฐมนตรีและรมว.คลัง ในฐานะประธานคณะกรรมข้าราชการตำรวจ(ก.ตร.) ที่ทำเนียบรัฐบาล หลังมีปัญหาเรื่องความขัดแย้งในองค์กรตำรวจ 
-sdsadsadsa
+So, what happened to the go, goBack, and goForward methods in the legacy history API in v5? In v6, we can call the same navigate function with numbers. For example, look at the following code snippet that demonstrates go back, forward, and 2nd history frame navigation:
+The v6 versions also changed the NavLink component interface that helps you create breadcrumbs, tabs, and navigation menus with dynamic styles. This is a frequently used component in most React Router-based apps, so you may have to allocate more time for NavLink related rewrites.

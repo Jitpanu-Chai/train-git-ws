@@ -1,1 +1,2 @@
-start
+So, what happened to the go, goBack, and goForward methods in the legacy history API in v5? In v6, we can call the same navigate function with numbers. For example, look at the following code snippet that demonstrates go back, forward, and 2nd history frame navigation:
+The v6 versions also changed the NavLink component interface that helps you create breadcrumbs, tabs, and navigation menus with dynamic styles. This is a frequently used component in most React Router-based apps, so you may have to allocate more time for NavLink related rewrites.
